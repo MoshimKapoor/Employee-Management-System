@@ -7,7 +7,7 @@ def login():
         messagebox.showerror('Error','All fields are required!')
         
     elif usernameEntry.get()=='abc' and passwordEntry.get()=='1234':
-        messagebox.showerror('Success','Login Successful')
+        messagebox.showinfo('Success','Login Successful')
         root.destroy()
         import ems
 
@@ -37,3 +37,4 @@ loginButton=CTkButton(root,text='Login',bg_color='#FAFAFA',cursor='hand2',comman
 loginButton.place(x=70,y=250)
 
 root.mainloop()
+
