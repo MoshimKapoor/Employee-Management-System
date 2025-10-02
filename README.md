@@ -24,7 +24,6 @@ Allows you to **login**, **add**, **update**, **delete**, and **search employee 
   - pillow
   - pymysql
 
-You can install the packages using pip:
 
 ```bash
 pip install customtkinter pillow pymysql
