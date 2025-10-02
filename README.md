@@ -1,4 +1,3 @@
-# Employee-Management-System
 # Employee Management System
 
 A simple desktop Employee Management System built with **Python**, **CustomTkinter**, **Pillow**, and **MySQL**.  
